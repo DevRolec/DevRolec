@@ -85,4 +85,7 @@ I’m open to **freelance**, **contract**, and **collaborative** projects.
 I don’t just write code—I build systems that **scale, learn, and evolve**.
 
 Let’s shape the future together.
+| Names | Age | Sex |
+|---|---|---|
+|Roland | 75 | Male |
 
