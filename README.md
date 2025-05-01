@@ -75,6 +75,7 @@ I’m open to **freelance**, **contract**, and **collaborative** projects.
 | `AI-Driven Chatbot` | Intelligent assistant trained on custom domain data. | Python, Transformers, FastAPI |
 | `NextGen SaaS Dashboard` | Real-time analytics dashboard with advanced UI. | React, Next.js, Node.js |
 | `DeepVision` | Image classifier deployed in production using CNNs. | PyTorch, Flask, Docker |
+| `Made_in_Aba`| An Ecommerce website to take in data of all businesses in Aba | Next.js, Tailwind CSS, typescript/JS , Redux(state management), React Query(API), Formik(form Handling), React Toastify (Notifications), Stripe.js(Payment) NodeJs, Express, JWT(auth), Nodemailer(email), REST(API) |
 
 ---
 
