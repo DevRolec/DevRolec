@@ -66,7 +66,8 @@ I’m open to **freelance**, **contract**, and **collaborative** projects.
 - 📧 [Email Me](rolandonyekwere@gmail.com)
 - 🌐 [portfolio.com](https://tyxod.com)
 - 🧠 [LinkedIn](https://www.linkedin.com/in/rolandonyekwere19/)
-- 🧠 [Facebook](https://www.facebook.com/roland_onyekwere/)
+- 📱 [Facebook](https://www.facebook.com/roland_onyekwere/)
+- :facebook: 
 
 ---
 
